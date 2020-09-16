@@ -1,2 +1,2 @@
-https://VeronaGumeniak/rsschool-cv/cv
+https://VeronaGumeniak.github.io/rsschool-cv/cv 
 
